@@ -21,15 +21,18 @@ A simple command-line Cafe Ordering System built with **Python** using **Object-
 ## 📚 OOP Concepts Used
 
 ### Classes & Objects
+
 The project uses two main classes:
 
 - `Drink` — represents a drink with its name and price.
 - `Order` — manages the customer's order and its operations.
 
 ### Encapsulation
+
 Order-related data and operations are grouped inside the `Order` class.
 
 ### Methods
+
 The project uses methods such as:
 
 - `add_item()`
@@ -41,19 +44,19 @@ The project uses methods such as:
 
 Make sure Python 3 is installed.
 
-Clone the repository:
+### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cafe-ordering-system.git
+git clone https://github.com/Mostafa-Makram/cafe-ordering-system.git
 ```
 
-Navigate to the project:
+### 2. Navigate to the Project
 
 ```bash
 cd cafe-ordering-system
 ```
 
-Run the program:
+### 3. Run the Program
 
 ```bash
 python main.py
@@ -91,3 +94,7 @@ Added Espresso Single to your order!
 **Mostafa Makram**
 
 Computer Science Student | Software Engineer | ML Engineer
+
+[GitHub Repository](https://github.com/Mostafa-Makram/cafe-ordering-system)
+
+[GitHub Profile](https://github.com/Mostafa-Makram)
